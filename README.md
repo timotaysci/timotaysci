@@ -14,4 +14,5 @@ Here are some ideas to get you started:
     - [Devtools](https://github.com/timotaysci/DevTools) - building blocks made by me.
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=timotaysci.visitor-badge&left_color=green&right_color=red)
+
