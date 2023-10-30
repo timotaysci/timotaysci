@@ -13,6 +13,3 @@ Here are some ideas to get you started:
     - [Fast-ref](https://github.com/timotaysci/fast-ref) - insert citations into emacs - fast.
     - [Devtools](https://github.com/timotaysci/DevTools) - building blocks made by me.
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=timotaysci.visitor-badge&left_color=green&right_color=red)
-
