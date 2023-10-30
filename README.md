@@ -12,3 +12,6 @@ Here are some ideas to get you started:
     - [Confidentiality mode](https://github.com/timotaysci/confidentiality-mode) - emacs mode to stop snoopers 👀.
     - [Fast-ref](https://github.com/timotaysci/fast-ref) - insert citations into emacs - fast.
     - [Devtools](https://github.com/timotaysci/DevTools) - building blocks made by me.
+
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
