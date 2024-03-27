@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AI and HPC
 - 🌱 I’m currently learning the SC-900, Linux+ and ITIL4
 - ✨ Key projects
+    - 🚧 [Init Helper](https://github.com/timotaysci/init-helper) - AI powered site to help build emacs init.el files.
     - 🚧 [Tim's Text to Speech](https://github.com/timotaysci/Tim-s-Text-to-Speech/tree/main) - Azure AI enabled TTS app so I can speak to the in-laws and learn by doing
     - [timothyjohnsonsci.co.uk](https://github.com/timotaysci/timothyjohnsonsci.com) - personal site built on Hugo.
     - [Confidentiality mode](https://github.com/timotaysci/confidentiality-mode) - emacs mode to stop snoopers 👀.
