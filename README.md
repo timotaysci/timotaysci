@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AI and HPC
-- 🌱 I’m currently learning the SC-900, Linux+ and ITIL4
+- 🔭 I’m currently working with Azure, AI and HPC - helping to enable science with the right tech in the right place.
+- 📜 Certified Microsoft AI Associate Developer.
+- ⌨️ [Emacs devotee](https://technology.matthey.com/content/journals/10.1595/205651322X16316969040478)
+- 🌱 I’m currently learning for the ITIL4
 - ✨ Key projects
     - 🚧 [Init Helper](https://github.com/timotaysci/init-helper) - AI powered site to help build emacs init.el files.
     - 🚧 [Tim's Text to Speech](https://github.com/timotaysci/Tim-s-Text-to-Speech/tree/main) - Azure AI enabled TTS app so I can speak to the in-laws and learn by doing
