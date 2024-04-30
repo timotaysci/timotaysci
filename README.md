@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ✨ Key projects
     - 🚧 [Init Helper](https://github.com/timotaysci/init-helper) - AI powered site to help build emacs init.el files.
     - 🚧 [Tim's Text to Speech](https://github.com/timotaysci/Tim-s-Text-to-Speech/tree/main) - Azure AI enabled TTS app so I can speak to the in-laws and learn by doing
-    - [timothyjohnsonsci.co.uk](https://github.com/timotaysci/timothyjohnsonsci.com) - personal site built on Hugo.
+    - [timothyjohnsonsci.com](https://github.com/timotaysci/timothyjohnsonsci.com) - personal site built on Hugo.
     - [Confidentiality mode](https://github.com/timotaysci/confidentiality-mode) - emacs mode to stop snoopers 👀.
     - [Fast-ref](https://github.com/timotaysci/fast-ref) - insert citations into emacs - fast.
     - [Devtools](https://github.com/timotaysci/DevTools) - building blocks made by me.
