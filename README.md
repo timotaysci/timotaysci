@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working with Azure, AI and HPC - helping to enable science with the right tech in the right place.
-- 📜 Certified Microsoft AI Associate Developer.
+- 📜 Certified Microsoft Azure AI Engineer Associate.
 - ⌨️ [Emacs devotee](https://technology.matthey.com/content/journals/10.1595/205651322X16316969040478)
 - 🌱 I’m currently learning for the ITIL4
 - ✨ Key projects
